@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s;
+}
+
+.container {
+  text-align: center;
+  width: 90%;
+  max-width: 600px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.ornekBaslik {
+  color: #333;
+  text-transform: capitalize;
+}
+
+.kelime {
+  font-size: 2em;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.koken::first-letter {
+  text-transform: capitalize;
+}
+
+.koken {
+  font-style: italic;
+  font-size: medium;
+  color: #5b5b5b;
+}
+
+.button, .anlam-butonu {
+  padding: 10px 20px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.button:hover {
+  background-color: #01346a;
+}
+
+.anlam-butonu {
+  background-color: #28a745;
+  color: #fff;
+  margin-top: 15px;
+}
+
+.anlam-butonu:hover {
+  background-color: #13742a;
+}
+
+/* koyu mod buton */
+.dark-mode-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 60px;
+  height: 30px;
+  background-color: #ff0000;
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  transition: background-color 0.3s;
+}
+
+.toggle-circle {
+  width: 24px;
+  height: 24px;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+/* koyu mod */
+.dark-mode {
+  background-color: #121212;
+}
+
+.dark-mode .container {
+  background-color: #333;
+  color: #f0f0f0;
+}
+
+.dark-mode .kelime,
+.dark-mode .ornek p,
+.dark-mode .zitanlam,
+.dark-mode .esanlam,
+.dark-mode .koken,
+.dark-mode .ornekBaslik {
+  color: #f0f0f0;
+}
+
+.dark-mode .anlam {
+  color: #ddd;
+}
+
+/*
+burası başka kelime butonunun ve anlam butonunun rengini değiştirir
+ .dark-mode .button {
+  background-color: #555;
+  color: #f0f0f0;
+}
+
+.dark-mode .anlam-butonu {
+  background-color: #666; 
+  color: #f0f0f0;
+}
+*/
+
+
+.dark-mode .dark-mode-toggle {
+  background-color: #3a00cd;
+}
+
+.dark-mode .toggle-circle.active {
+  transform: translateX(30px);
+}
+
+.anlam {
+  font-size: 1.2em;
+  color: #555;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.anlam::first-letter {
+  text-transform: capitalize;
+}
+
+.ornek {
+  margin-top: 20px;
+}
+
+
+/* zıt ve eş anlam */
+
+.show-zitanlam-button {
+  background-color: #aea603;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.show-zitanlam-button:hover {
+  background-color: #767000;
+}
+
+.zitanlam {
+  text-transform: capitalize;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #555;
+  font-style: italic;
+}
+
+.esanlam {
+  text-transform: capitalize;
+  margin-top: 1px;
+  font-size: 14px;
+  color: #555;
+  font-style: italic;
+}
+
+.show-esanlam-button {
+  background-color: #c68b00; 
+  color: white;
+  padding: 10px 20px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.show-esanlam-button:hover {
+  background-color: #825b00;
+}
+
+.show-esanlam-button:active {
+  background-color: #825b00;
+}
+
