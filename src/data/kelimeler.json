@@ -1,1047 +1,244 @@
 [
     {
-        "kelime": "piston",
-        "anlam": "Motor içinde ileri geri hareket eden silindir parçası.",
-        "esanlam": ["silindir parça", "hareketli eleman"],
-        "zitanlam": ["sabit parça"],
-        "ornek": [
-            "Motorun piston kısmında bir arıza var.",
-            "Piston düzgün çalışmadığında motor verimsiz olur."
-        ],
-        "koken": "Almanca 'Pistone' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "rotor",
-        "anlam": "Motor veya jeneratör gibi makinelerde dönen parça.",
-        "esanlam": ["dönen parça", "şaft"],
-        "zitanlam": ["stator"],
-        "ornek": [
-            "Rotor arızalandığında makine çalışmaz.",
-            "Jeneratörün rotor kısmı sık sık kontrol edilmeli."
-        ],
-        "koken": "Almanca 'Rotor' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "konjektör",
-        "anlam": "Elektrik devrelerinde kullanılan, akımı yönlendiren parça.",
-        "esanlam": ["diyot", "akım yönlendirici"],
-        "zitanlam": ["kondansatör"],
-        "ornek": [
-            "Arabanın konjektörü değiştirilmeliydi.",
-            "Konjektör arızası yüzünden akü şarj olmuyor."
-        ],
-        "koken": "Almanca 'Kondensator' kelimesinden gelmektedir."
-    },
-    {
         "kelime": "masura",
-        "anlam": "İplik veya tel sarılan silindirik parça.",
-        "esanlam": ["bobin", "silindir"],
-        "zitanlam": ["çubuk"],
+        "anlam": "İpliğin, telin ya da başka bir malzemenin sarıldığı silindirik şekil.",
+        "esanlam": ["makara", "bobin"],
+        "zitanlam": ["serbest", "dağınık"],
         "ornek": [
-            "Dikiş makinesinde masura bitti.",
-            "Masura olmadan ipliği düzgün saramazsınız."
+            "Masura üzerindeki ipi dikkatlice sarmalısın.",
+            "Bütün ipleri masuralara yerleştirip düzenli bir şekilde sakladılar."
         ],
-        "koken": "Almanca 'Masure' kelimesinden türetilmiştir."
+        "koken": "Arapça 'مسورة' (musûra) kelimesinden türetilmiştir."
     },
     {
         "kelime": "şase",
-        "anlam": "Araçların veya makinelerin iskelet sistemi.",
-        "esanlam": ["gövde", "iskelet"],
-        "zitanlam": ["kaporta"],
+        "anlam": "Bir aracın temel yapısını oluşturan, üzerine diğer parçaların yerleştirildiği alt yapı.",
+        "esanlam": ["alt yapı", "çerçeve"],
+        "zitanlam": ["gövde", "kaplama"],
         "ornek": [
-            "Aracın şasesinde çatlak var.",
-            "Şase hasarı arabanın güvenliğini etkiler."
+            "Aracın şasesi tamamen sağlam, sadece kaportası hasar gördü.",
+            "Yeni araba şasesi oldukça dayanıklı ve hafif."
         ],
-        "koken": "Almanca 'Chassis' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "platin",
-        "anlam": "Motor ateşleme sisteminde bulunan elektrik kontağı parçası.",
-        "esanlam": ["ateşleme kontağı", "kontak"],
-        "zitanlam": ["bobin"],
-        "ornek": [
-            "Motorun platini değiştirildi.",
-            "Ateşleme sistemindeki platin arızalandı."
-        ],
-        "koken": "Almanca 'Platin' kelimesinden gelmektedir."
+        "koken": "Fransızca 'châssis' (şasi) kelimesinden alınmıştır."
     },
     {
         "kelime": "şamandıra",
-        "anlam": "Sıvı yüzeyinde yüzen gösterge veya işaret parçası.",
-        "esanlam": ["yüzer gösterge", "işaret"],
-        "zitanlam": ["sabit gösterge"],
+        "anlam": "Suda batmadan yüzen, suyun seviyesini gösteren veya belirli bir nesneyi işaret eden cihaz.",
+        "esanlam": ["yüzer işaret", "işaretçi"],
+        "zitanlam": ["daldırma", "batma"],
         "ornek": [
-            "Şamandıra denizdeki tehlikeli bölgeyi işaret ediyor.",
-            "Depodaki sıvı seviyesini şamandıra gösteriyor."
+            "Şamandıra, teknenin güvenli bölgesini işaret ediyordu.",
+            "Yüksek dalgalar şamandırayı yerinden çıkardı."
         ],
-        "koken": "Almanca 'Schwimmer' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "sprey",
-        "anlam": "Basınçlı kap içinde bulunan, püskürterek uygulanan sıvı.",
-        "esanlam": ["püskürtücü", "fısfıs"],
-        "zitanlam": ["damlatıcı"],
-        "ornek": [
-            "Yara üzerine antiseptik sprey sıktı.",
-            "Saçını şekillendirmek için sprey kullandı."
-        ],
-        "koken": "Almanca 'Sprüh' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "mazot",
-        "anlam": "Dizel motorlarda kullanılan yakıt türü.",
-        "esanlam": ["dizel", "yakıt"],
-        "zitanlam": ["benzin"],
-        "ornek": [
-            "Traktör mazot ile çalışır.",
-            "Mazot fiyatları arttı."
-        ],
-        "koken": "Almanca 'Masut' kelimesinden türetilmiştir."
+        "koken": "Arapça 'شامندرة' (şamandıra) kelimesinden türetilmiştir."
     },
     {
         "kelime": "drenaj",
-        "anlam": "Suyun bir alandan uzaklaştırılması işlemi.",
-        "esanlam": ["su tahliyesi", "kurutma"],
-        "zitanlam": ["su biriktirme"],
+        "anlam": "Bir alandaki suyun veya sıvının düzenli bir şekilde dışarıya atılması işlemi.",
+        "esanlam": ["su tahliyesi", "su giderme"],
+        "zitanlam": ["su birikintisi", "duruş"],
         "ornek": [
-            "Bahçede drenaj sistemi kuruldu.",
-            "Drenaj eksikliği toprağın suyla dolmasına yol açtı."
+            "Yeni drenaj sistemi sayesinde bahçemizde su birikintisi oluşmuyor.",
+            "Drenaj hatları, yağış sonrası suyun hızla tahliye edilmesini sağlıyor."
         ],
-        "koken": "Almanca 'Drainage' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "priz",
-        "anlam": "Elektrik fişini bağlamak için kullanılan duvar aparatı.",
-        "esanlam": ["fiş yuvası", "elektrik girişi"],
-        "zitanlam": ["anahtar"],
-        "ornek": [
-            "Şarj aletini prize taktı.",
-            "Odada yeterince priz yok."
-        ],
-        "koken": "Almanca 'Prise' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "kanalizasyon",
-        "anlam": "Atık suyun taşındığı yeraltı sistemi.",
-        "esanlam": ["lağım", "atık su sistemi"],
-        "zitanlam": ["içme suyu hattı"],
-        "ornek": [
-            "Kanalizasyon boruları tıkandı.",
-            "Mahallede kanalizasyon sistemi yenilendi."
-        ],
-        "koken": "Almanca 'Kanalisation' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "şanzıman",
-        "anlam": "Araçlarda motor gücünü tekerleklere aktaran sistem.",
-        "esanlam": ["vites kutusu", "güç aktarımı"],
-        "zitanlam": ["fren sistemi"],
-        "ornek": [
-            "Şanzımanda bir sorun var.",
-            "Araba yüksek hızda şanzıman sesi çıkarıyor."
-        ],
-        "koken": "Almanca 'Schaltgetriebe' kelimesinden gelmektedir."
+        "koken": "Latince 'drainare' (dreynare) kelimesinden türetilmiştir."
     },
     {
         "kelime": "manometre",
-        "anlam": "Basıncı ölçmek için kullanılan cihaz.",
-        "esanlam": ["basınç ölçer", "ölçüm aleti"],
-        "zitanlam": ["termometre"],
+        "anlam": "Bir gazın veya sıvının basıncını ölçen cihaz.",
+        "esanlam": ["basınç ölçeri", "basınç göstergesi"],
+        "zitanlam": ["basınçsızlık", "vakum"],
         "ornek": [
-            "Manometre basıncı doğru ölçmelidir.",
-            "Kazanın iç basıncını manometreyle kontrol etti."
+            "Manometreyi kontrol ederek basıncın normal seviyede olup olmadığını öğrenebilirsiniz.",
+            "Cihazın manometresi, basıncı 2 bar olarak gösteriyor."
         ],
-        "koken": "Almanca 'Manometer' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "rotil",
-        "anlam": "Araç süspansiyon sisteminde hareketli bağlantı elemanı.",
-        "esanlam": ["bağlantı elemanı", "dönen parça"],
-        "zitanlam": ["sabit parça"],
-        "ornek": [
-            "Aracın rotilleri değiştirilmeli.",
-            "Rotil arızası direksiyon hakimiyetini etkiler."
-        ],
-        "koken": "Almanca 'Kugelgelenk' kelimesinden türetilmiştir."
+        "koken": "Yunanca 'manos' (ince) ve 'metron' (ölçü) kelimelerinden türetilmiştir."
     },
     {
         "kelime": "akustik",
-        "anlam": "Sesin yankılanması ve dağılımını inceleyen bilim dalı.",
-        "esanlam": ["ses bilimi", "yankı"],
-        "zitanlam": ["gürültü"],
+        "anlam": "Sesle ilgili olan veya sesin yayılma özelliklerini inceleyen bilim dalı.",
+        "esanlam": ["ses bilim", "ses özellikleri"],
+        "zitanlam": ["sessizlik", "gürültü"],
         "ornek": [
-            "Oda akustiği konserler için düzenlendi.",
-            "Akustik tasarım, müzik kalitesini etkiler."
+            "Akustik testler, salondaki sesin nasıl yayıldığını analiz etti.",
+            "Müzik odasında akustik düzenleme yapmak önemliydi."
         ],
-        "koken": "Almanca 'Akustik' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "maviş",
-        "anlam": "Yumuşak, kırılgan yapıda olan ve genellikle deniz kıyılarında bulunan bazı mavi renkteki taşlar.",
-        "esanlam": ["deniz taşı", "mavi taş"],
-        "zitanlam": ["sert taş"],
-        "ornek": [
-            "Denizin kenarında maviş taşları biriktiriyordu.",
-            "Maviş taşları, kıyı boyunca sıklıkla bulunur."
-        ],
-        "koken": "Fransızca 'moulinet' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "dekoratif",
-        "anlam": "Süsleme amacı güden, estetik bir görünüm sağlamak için yapılan.",
-        "esanlam": ["süsleyici", "görsel"],
-        "zitanlam": ["fonksiyonel", "pratik"],
-        "ornek": [
-            "Dekoratif objelerle evin havasını değiştirdi.",
-            "Evin dekoratif detayları oldukça dikkat çekiciydi."
-        ],
-        "koken": "Fransızca 'décoratif' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "vitrin",
-        "anlam": "Mağaza veya dükkânlarda, camdan yapılmış sergileme alanı.",
-        "esanlam": ["sergi alanı", "gösterim alanı"],
-        "zitanlam": ["depo", "arka oda"],
-        "ornek": [
-            "Yeni koleksiyon vitrinde sergileniyordu.",
-            "Vitrinde sergilenen ürünler oldukça dikkat çekiciydi."
-        ],
-        "koken": "Fransızca 'vitrine' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "şık",
-        "anlam": "Modaya uygun, zarif ve göz alıcı şekilde giyinmiş.",
-        "esanlam": ["zarif", "elegan"],
-        "zitanlam": ["dağınık", "sade"],
-        "ornek": [
-            "Geceye katılan herkes çok şıktı.",
-            "Şık bir restoran seçtik, rezervasyon yapalım."
-        ],
-        "koken": "Fransızca 'chic' kelimesinden gelmektedir."
+        "koken": "Yunanca 'akouein' (duymak) kelimesinden türetilmiştir."
     },
     {
         "kelime": "karnaval",
-        "anlam": "Büyük kutlamalar, genellikle sokaklarda yapılan, eğlenceli gösteriler.",
-        "esanlam": ["festival", "şenlik"],
-        "zitanlam": ["hüzün", "yalnızlık"],
+        "anlam": "Coşkulu eğlencelerin yapıldığı, halkın danslar ve kostümlerle kutladığı eğlence etkinliği.",
+        "esanlam": ["şenlik", "kutlama"],
+        "zitanlam": ["ciddiyet", "sakinlik"],
         "ornek": [
-            "Karnaval zamanı şehri renklendiren bir atmosfer oluşur.",
-            "Karnavaldaki maskelere bayıldım."
+            "Karnavalda herkes renkli kostümler giydi ve sokaklar neşeyle doldu.",
+            "Bu yılki karnaval çok büyük ilgi gördü."
         ],
-        "koken": "Fransızca 'carnaval' kelimesinden gelmektedir."
+        "koken": "Portekizce 'carnaval' (karnaval) kelimesinden türetilmiştir."
     },
     {
         "kelime": "etüt",
-        "anlam": "Belirli bir konu hakkında yapılan derinlemesine çalışma veya inceleme.",
-        "esanlam": ["çalışma", "araştırma"],
-        "zitanlam": ["boş vakit", "eğlence"],
+        "anlam": "Bir konuyu detaylı şekilde çalışmak amacıyla yapılan ders dışı çalışma.",
+        "esanlam": ["çalışma", "tekrar"],
+        "zitanlam": ["dağınıklık", "ihmal"],
         "ornek": [
-            "Bu hafta sonu etüt yapmak için kütüphaneye gideceğim.",
-            "Ders etüdünü yaparken zorlandım."
+            "Etüt merkezinde öğrencilere birebir ders verildi.",
+            "Bugün etüt yaparak sınav için hazırlandım."
         ],
-        "koken": "Fransızca 'étude' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "rendezvous",
-        "anlam": "Özel bir buluşma, planlanmış görüşme.",
-        "esanlam": ["buluşma", "randevu"],
-        "zitanlam": ["tesadüfi karşılaşma"],
-        "ornek": [
-            "Saat 3'te bir rendezvous'um var.",
-            "Bu akşamki rendezvous'yu sabırsızlıkla bekliyorum."
-        ],
-        "koken": "Fransızca 'rendez-vous' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "bilet",
-        "anlam": "Bir etkinlik veya seyahat için satın alınan giriş belgesi.",
-        "esanlam": ["geçiş kartı", "giriş belgesi"],
-        "zitanlam": ["boşluk", "yer"],
-        "ornek": [
-            "Tiyatro için bilet aldım.",
-            "Biletimi kaybettim, yeni bir tane almam gerek."
-        ],
-        "koken": "Fransızca 'billet' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "karnavalesk",
-        "anlam": "Karnavala özgü, neşeli, gösterişli ve renkli bir hava taşıyan.",
-        "esanlam": ["şenlikli", "neşeli"],
-        "zitanlam": ["sade", "monoton"],
-        "ornek": [
-            "Gecede karnavalesk bir atmosfer hakimdi.",
-            "Karnavalesk kıyafetler geceye renk kattı."
-        ],
-        "koken": "Fransızca 'carnavalesque' kelimesinden gelmektedir."
+        "koken": "Fransızca 'étude' (etüd) kelimesinden türetilmiştir."
     },
     {
         "kelime": "abluka",
-        "anlam": "Bir yerin veya bölgenin kuşatılması, çevrilmesi.",
-        "esanlam": ["kuşatma", "çevirme"],
-        "zitanlam": ["açıklık", "serbestlik"],
+        "anlam": "Bir bölgenin dışarıyla bağlantısının kesilmesi, özellikle savaş durumlarında uygulanan kuşatma.",
+        "esanlam": ["kuşatma", "engelleme"],
+        "zitanlam": ["açıklık", "özgürlük"],
         "ornek": [
-            "Şehir ablukaya alındı, dışarı çıkmak yasaklandı.",
-            "Köy, düşmanlar tarafından ablukaya alınmıştı."
+            "Abluka altındaki şehirde gıda ve ilaç sıkıntısı baş gösterdi.",
+            "Abluka sırasında dışarı çıkmak yasaklanmıştı."
         ],
-        "koken": "Fransızca 'blocus' kelimesinden türetilmiştir."
+        "koken": "Arapça 'بلوك' (bloka) kelimesinden türetilmiştir."
     },
     {
         "kelime": "piyes",
-        "anlam": "Bir tür tiyatro eseri veya drama.",
-        "esanlam": ["tiyatro eseri", "drama"],
-        "zitanlam": ["roman", "öykü"],
+        "anlam": "Bir tiyatro oyununu ifade eden terim, genellikle sahneye koyulan drama.",
+        "esanlam": ["oyun", "drama"],
+        "zitanlam": ["sessizlik", "monolog"],
         "ornek": [
-            "Yeni yazılan piyes sahnelenmeye başlandı.",
-            "Tiyatronun en iyi piyesini izledik."
+            "Piyes, toplumun psikolojik yapısını derinlemesine işler.",
+            "Yeni yazılmış bir piyes, sahnede büyük bir etki yarattı."
         ],
-        "koken": "Fransızca 'pièce' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "montaj",
-        "anlam": "Bir yapıtın bölümlerinin bir araya getirilerek tamamlanması işlemi.",
-        "esanlam": ["birleştirme", "kurgulama"],
-        "zitanlam": ["dağınıklık", "ayrı tutma"],
-        "ornek": [
-            "Filmin montajı birkaç hafta sürecek.",
-            "Montaj işlemi bitti, şimdi filmin son halini izleyebiliriz."
-        ],
-        "koken": "Fransızca 'montage' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "dekolte",
-        "anlam": "Vücuda daha fazla görünürlük sağlayan, genellikle göğüs kısmını açık bırakan giysi detayı.",
-        "esanlam": ["açık giysi", "görünürlük"],
-        "zitanlam": ["kapalı giyim"],
-        "ornek": [
-            "Düğün için dekolte bir elbise giymeyi tercih etti.",
-            "Dekolte kıyafet, geceye özgün bir hava kattı."
-        ],
-        "koken": "Fransızca 'décolleté' kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "büyüleyici",
-        "anlam": "İnsanları etkileyip hayran bırakan, çekici olan.",
-        "esanlam": ["etkileyici", "çekici"],
-        "zitanlam": ["sade", "basit"],
-        "ornek": [
-            "O geceki manzara gerçekten büyüleyiciydi.",
-            "Büyüleyici bir müzik dinlemek insanı farklı bir dünyaya götürür."
-        ],
-        "koken": "Fransızca 'éblouissant' kelimesinden türetilmiştir."
+        "koken": "Fransızca 'pièce' (pyes) kelimesinden türetilmiştir."
     },
     {
         "kelime": "zuhur",
-        "anlam": "Bir şeyin meydana gelmesi, belirginleşmesi.",
-        "esanlam": ["görünme", "belirme"],
-        "zitanlam": ["silinme", "kaybolma"],
+        "anlam": "Bir şeyin meydana gelmesi, ortaya çıkması.",
+        "esanlam": ["meydana gelme", "doğuş"],
+        "zitanlam": ["gizlenme", "karanlık"],
         "ornek": [
-            "Rüya gibi bir olayın zuhur etmesiyle herkes şaşkına döndü.",
-            "Halk arasında bu tür olayların zuhur ettiği söylenir."
+            "Zuhur, beklenmedik bir anda herkesi şaşırttı.",
+            "Zuhur eden olaylar toplumu derinden etkiledi."
         ],
-        "koken": "Arapça 'ظهور' (zuhur) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "tevhid",
-        "anlam": "Tanrı'nın birliğini kabul etme inancı.",
-        "esanlam": ["birlik", "teklik"],
-        "zitanlam": ["çokluk", "çoktanrıcılık"],
-        "ornek": [
-            "Tevhid, İslam'ın temel inanç esaslarındandır.",
-            "O, tevhid inancını hayatının merkezi kabul etti."
-        ],
-        "koken": "Arapça 'توحيد' (tevhid) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "tensik",
-        "anlam": "Bir şeyin ya da olayın bir araya getirilmesi, düzenlenmesi.",
-        "esanlam": ["düzenleme", "birleştirme"],
-        "zitanlam": ["dağılma", "karışıklık"],
-        "ornek": [
-            "Yönetim, projelerin tensik edilmesini istedi.",
-            "Toplantıdan sonra tüm belgeler tensik edilecek."
-        ],
-        "koken": "Arapça 'تنسيق' (tensik) kelimesinden gelmektedir."
+        "koken": "Arapça 'ظهور' (zuhr) kelimesinden türetilmiştir."
     },
     {
         "kelime": "sükut",
-        "anlam": "Sessizlik, konuşmama hali.",
-        "esanlam": ["sessizlik", "suskunluk"],
-        "zitanlam": ["konuşma", "ses"],
+        "anlam": "Söz söylememe, susma durumu.",
+        "esanlam": ["suskunluk", "sessizlik"],
+        "zitanlam": ["konuşma", "gürültü"],
         "ornek": [
-            "Sükut içinde düşüncelere dalmıştı.",
-            "Toplantıdaki sükut, herkesin ne söyleyeceğini beklediğini gösteriyordu."
+            "Sükut, bazen en etkili cevap olabilir.",
+            "Toplantıda herkes sükut içindeydi."
         ],
-        "koken": "Arapça 'سكوت' (sükut) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "behiye",
-        "anlam": "Kadın ismi olarak kullanılan, güzel ve hoş bir anlam taşıyan Arapça kelime.",
-        "esanlam": ["güzel", "zarif"],
-        "zitanlam": ["çirkin", "kaba"],
-        "ornek": [
-            "Behiye, zarif ve güzel bir isimdir.",
-            "Ona Behiye ismi çok yakıştı."
-        ],
-        "koken": "Arapça 'بهية' (behiye) kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "sıdk",
-        "anlam": "Doğruluk, dürüstlük.",
-        "esanlam": ["doğruluk", "dürüstlük"],
-        "zitanlam": ["yalan", "sahtelik"],
-        "ornek": [
-            "Sıdk, insanın en önemli özelliklerinden biridir.",
-            "O, her zaman sıdkla hareket ederdi."
-        ],
-        "koken": "Arapça 'صدق' (sıdk) kelimesinden türetilmiştir."
+        "koken": "Arapça 'سكوت' (sükût) kelimesinden türetilmiştir."
     },
     {
         "kelime": "nizam",
-        "anlam": "Düzen, sistem.",
-        "esanlam": ["düzen", "intizam"],
-        "zitanlam": ["kaos", "düzensizlik"],
+        "anlam": "Bir düzenin oluşturulması, her şeyin yerli yerinde olması.",
+        "esanlam": ["düzen", "sistem"],
+        "zitanlam": ["kaos", "karmaşa"],
         "ornek": [
-            "Bu şirketin nizamı oldukça serttir.",
-            "Her şey nizam içinde düzenlenmişti."
+            "Toplantı başlamadan önce odada bir nizam kurulmalı.",
+            "Her şeyin nizamı bozulmuştu."
         ],
-        "koken": "Arapça 'نظام' (nizam) kelimesinden gelmektedir."
+        "koken": "Arapça 'نظام' (nizâm) kelimesinden türetilmiştir."
     },
     {
         "kelime": "feraset",
-        "anlam": "Öngörü ve sezgi yeteneği, doğruyu görebilme.",
-        "esanlam": ["sezgi", "öngörü"],
-        "zitanlam": ["körlük", "sahtelik"],
+        "anlam": "İleri görüşlülük, doğru kararlar verebilme yeteneği.",
+        "esanlam": ["öngörü", "hikmet"],
+        "zitanlam": ["safsata", "yetersizlik"],
         "ornek": [
-            "Ferasetli bir insan, her zaman doğru kararlar verir.",
-            "O, ferasetini kullanarak doğru yolu buldu."
+            "Ferasetli bir lider, zorlu kararlar alabilen kişidir.",
+            "Onun feraseti sayesinde büyük bir felaketten kurtulduk."
         ],
-        "koken": "Arapça 'فراسة' (feraset) kelimesinden türetilmiştir."
+        "koken": "Arapça 'فراسة' (ferasat) kelimesinden türetilmiştir."
     },
     {
-        "kelime": "tasavvur",
-        "anlam": "Zihinde canlandırma, hayal etme.",
-        "esanlam": ["hayal", "imge"],
-        "zitanlam": ["gerçek", "somut"],
+        "kelime": "alternatif",
+        "anlam": "Bir şeyin yerine geçebilecek başka bir seçenek, alternatif.",
+        "esanlam": ["seçenek", "yerine koyma"],
+        "zitanlam": ["tek seçenek", "zorunluluk"],
         "ornek": [
-            "Bunu tasavvur etmek bile güçtü.",
-            "Onun tasavvuru, bir sanatçı gibi özgündü."
+            "Bu alternatif, diğer çözüm yollarına göre daha etkili olabilir.",
+            "Alternatif bir yaklaşım benimsemek gerekti."
         ],
-        "koken": "Arapça 'تصور' (tasavvur) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "nübüvvet",
-        "anlam": "Peygamberlik, ilahi mesajı iletme görevi.",
-        "esanlam": ["peygamberlik", "ilahi görev"],
-        "zitanlam": ["sıradanlık", "vazife"],
-        "ornek": [
-            "Nübüvvet, İslam'ın temel inançları arasında yer alır.",
-            "Peygamberlerin nübüvveti, tüm insanlığa ışık tutmuştur."
-        ],
-        "koken": "Arapça 'نبوة' (nübüvvet) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "fitne",
-        "anlam": "Toplumsal huzursuzluk, bozukluk çıkarma.",
-        "esanlam": ["karışıklık", "kargaşa"],
-        "zitanlam": ["huzur", "barış"],
-        "ornek": [
-            "Fitne, toplumda büyük sorunlara yol açtı.",
-            "İnsanlar arasındaki fitne çok tehlikeli bir şeydir."
-        ],
-        "koken": "Arapça 'فتنة' (fitne) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "istidat",
-        "anlam": "Bir kişide doğuştan var olan yetenek veya kabiliyet.",
-        "esanlam": ["yetenek", "kabiliyet"],
-        "zitanlam": ["yetersizlik", "düşüklük"],
-        "ornek": [
-            "İstidadı olan bir insan, zor işlerde başarılı olabilir.",
-            "Onun istidatı, doğuştan gelen bir özelliktir."
-        ],
-        "koken": "Arapça 'استعداد' (istidat) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "cümhur",
-        "anlam": "Halk, topluluk, çoğunluk.",
-        "esanlam": ["halk", "toplum"],
-        "zitanlam": ["azınlık", "elit"],
-        "ornek": [
-            "Cümhur, bu yeni düzenlemeyi destekliyor.",
-            "Halkın çoğunluğu, cümhurun görüşünü benimsedi."
-        ],
-        "koken": "Arapça 'جمهور' (cümhur) kelimesinden gelmektedir."
-    },
-    {
-        "kelime": "irfan",
-        "anlam": "Gerçek bilgi, derin kavrayış.",
-        "esanlam": ["bilgelik", "anlayış"],
-        "zitanlam": ["cehalet", "ignorans"],
-        "ornek": [
-            "İrfan sahibi insanlar, her zaman doğru yolu bulur.",
-            "Onun irfanı, çevresindekilere rehberlik ediyordu."
-        ],
-        "koken": "Arapça 'عرفان' (irfan) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "balalayka",
-        "anlam": "Rusya kökenli, üç telli ve perdesiz bir çalgı aleti.",
-        "esanlam": ["çalgı", "müzik aleti"],
-        "zitanlam": ["davul", "piyano"],
-        "ornek": [
-            "Balalayka, Rus halk müziğinde sıkça duyulabilen bir enstrümandır.",
-            "Balalayka çalarken, müziğin ruhunu hissetmek gerekir."
-        ],
-        "koken": "Rusça 'балала́йка' (balalayka) kelimesinden gelmektedir."
-    }, 
-    {
-        "kelime": "tayga",
-        "anlam": "Rusya'nın kuzey bölgelerinde bulunan, ağaçlık ve ormanlık alan.",
-        "esanlam": ["orman", "doğa"],
-        "zitanlam": ["çöl", "bozkır"],
-        "ornek": [
-            "Tayga, soğuk ve karasal iklimiyle bilinir.",
-            "Rusya'nın tayga bölgesi, yoğun ormanlarıyla ünlüdür."
-        ],
-        "koken": "Rusça 'тайга' (taiga) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "troleybüs",
-        "anlam": "Elektrik enerjisi ile çalışan, raylı sistem gibi elektrik hatlarına bağlı otobüs.",
-        "esanlam": ["elektrikli otobüs", "toplu taşıma aracı"],
-        "zitanlam": ["dönüşümlü otobüs", "fossil yakıtlı otobüs"],
-        "ornek": [
-            "Troleybüs, çevre dostu bir ulaşım aracıdır.",
-            "Büyük şehirlerde trolleybüsler, trafiği rahatlatır."
-        ],
-        "koken": "Rusça 'троллейбус' (trolleybus) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "bolşevik",
-        "anlam": "Rusya'daki Bolşevik Devrimi'ni gerçekleştiren, komünist düşünceye sahip kişi.",
-        "esanlam": ["devrimci", "sosyalist"],
-        "zitanlam": ["kapitalist", "liberal"],
-        "ornek": [
-            "Bolşevikler, Rusya'daki sosyalist devrimi gerçekleştirdiler.",
-            "Bolşevik ideoloji, Sovyetler Birliği'nin temellerini attı."
-        ],
-        "koken": "Rusça 'болшевик' (bolşevik) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "duma",
-        "anlam": "Rusya'da yasama organı olarak görev yapan parlamento.",
-        "esanlam": ["meclis", "parlamento"],
-        "zitanlam": ["yürütme organı", "tek parti"],
-        "ornek": [
-            "Duma, Rusya'da halk tarafından seçilen parlamentodur.",
-            "Rusya'daki tüm yasalar, Duma tarafından onaylanır."
-        ],
-        "koken": "Rusça 'дума' (duma) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "komünizm",
-        "anlam": "Sosyal sınıfların ortadan kaldırılması gerektiğini savunan ideoloji ve sistem.",
-        "esanlam": ["sosyalizm", "eşitlik"],
-        "zitanlam": ["kapitalizm", "özel mülkiyet"],
-        "ornek": [
-            "Komünizm, Sovyetler Birliği'nin temel ideolojisiydi.",
-            "Komünizm, işçi sınıfının yönetimi ele geçirmesi gerektiğini savunur."
-        ],
-        "koken": "Rusça 'коммунизм' (kommunizm) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "katarsis",
-        "anlam": "Duygusal arınma, psikolojik rahatlama.",
-        "esanlam": ["arınma", "saflaşma"],
-        "zitanlam": ["baskı", "gerilim"],
-        "ornek": [
-            "Birçok insan sinemada katarsis yaşar.",
-            "Katarsis, kişinin ruhsal sağlığına iyi gelir."
-        ],
-        "koken": "Yunanca 'κάθαρσις' (katharsis) kelimesinden türetilmiştir, 'arınma' veya 'temizlik' anlamına gelir."
-    },
-    {
-        "kelime": "nostalji",
-        "anlam": "Geçmişe duyulan özlem, eski zamanlara olan hasret.",
-        "esanlam": ["özlem", "geçmiş özlemi"],
-        "zitanlam": ["gelecek umudu", "yeni"],
-        "ornek": [
-            "Nostalji, onu geçmişteki güzel günlere götürdü.",
-            "Nostalji, geçmişe duyulan derin bir özlem duygusudur."
-        ],
-        "koken": "Yunanca 'νόστος' (nóstos) ve 'ἄλγος' (álgos) kelimelerinden türetilmiştir, 'geri dönmek' ve 'acı' anlamlarına gelir."
-    },
-    {
-        "kelime": "melankoli",
-        "anlam": "Hüzünlü bir ruh hali, derin bir üzüntü durumu.",
-        "esanlam": ["hüzün", "keder"],
-        "zitanlam": ["neşe", "mutluluk"],
-        "ornek": [
-            "O, uzun süre melankoli içinde yaşamış bir sanatçıdır.",
-            "Melankoli, bazen insanın yaratıcı ruhunu besler."
-        ],
-        "koken": "Yunanca 'μελαγχολία' (melancholia) kelimesinden türetilmiştir, 'kara safra' anlamına gelir."
-    },
-    {
-        "kelime": "doksoloji",
-        "anlam": "Tanrı'ya övgüde bulunma, dini şarkı veya ilahi.",
-        "esanlam": ["övgü", "ilahi"],
-        "zitanlam": ["küfür", "lanet"],
-        "ornek": [
-            "Doksoloji, birçok kilise ayininde önemli bir yer tutar.",
-            "O, kutsal doksolojileri büyük bir içtenlikle okur."
-        ],
-        "koken": "Yunanca 'δόξα' (doxa) ve 'λόγος' (logos) kelimelerinden türetilmiştir, 'övgü' ve 'söz' anlamlarına gelir."
-    },
-    {
-        "kelime": "ikon",
-        "anlam": "Kutsal figürlerin resmedildiği dini sembol veya sanat eseri.",
-        "esanlam": ["resim", "dini figür"],
-        "zitanlam": ["heykel", "modern sanat eseri"],
-        "ornek": [
-            "Bizans sanatında ikona çok önemli bir yere sahiptir.",
-            "O, ikonlar arasında en çok tanınan figürdür."
-        ],
-        "koken": "Yunanca 'εικών' (eikón) kelimesinden türetilmiştir, 'görüntü' veya 'resim' anlamına gelir."
-    },
-    {
-        "kelime": "antika",
-        "anlam": "Eski, değerli, nadir bulunan sanat eseri veya eşya.",
-        "esanlam": ["eski", "değerli eşya"],
-        "zitanlam": ["yeni", "modern eşya"],
-        "ornek": [
-            "Müzayede salonunda birçok antika eser vardı.",
-            "Antika koleksiyonu yapmak, birçok kişi için bir tutkudur."
-        ],
-        "koken": "Yunanca 'αντίκα' (antika) kelimesinden türetilmiştir, eski eşya anlamına gelir."
-    },
-    {
-        "kelime": "bey",
-        "anlam": "Ağırbaşlı, saygın, soylu kişi, eski Türklerde hükümet veya ordu lideri.",
-        "esanlam": ["şef", "lider"],
-        "zitanlam": ["kul", "bağımsız"],
-        "ornek": [
-            "Bey, köyün en yaşlı ve saygın kişisiydi.",
-            "Köyün beyleri, diğer kabilelerle barış anlaşmalarını düzenlerdi."
-        ],
-        "koken": "Eski Türkçede 'bäg' (bey) kelimesi, yönetici, lider anlamında kullanılırdı."
-    },
-    {
-        "kelime": "kağan",
-        "anlam": "Türk devletlerinde hükümdar, sultan; genellikle büyük bir yönetici.",
-        "esanlam": ["hükümdar", "padişah"],
-        "zitanlam": ["seyirci", "insan"],
-        "ornek": [
-            "Kağan, halkını korumak için büyük bir ordu kurmuştu.",
-            "Eski Türkler, kağanlarının etrafında birleşirlerdi."
-        ],
-        "koken": "Eski Türkçede 'qağan' kelimesi, hükümdar veya büyük lider anlamına gelir."
-    },
-    {
-        "kelime": "yurt",
-        "anlam": "Bir milletin, halkın yaşadığı yer, toprak, vatan.",
-        "esanlam": ["toprak", "memleket"],
-        "zitanlam": ["yabancı toprak", "göçmen"],
-        "ornek": [
-            "Yurt, insanın en değerli varlığıdır.",
-            "Türkler, yurtlarını savunmak için pek çok savaş yapmışlardır."
-        ],
-        "koken": "Eski Türkçede 'urt' kelimesi, vatan, toprak anlamında kullanılmıştır."
-    },
-    {
-        "kelime": "alperen",
-        "anlam": "Yiğit, kahraman, erdemli ve cesur kişi.",
-        "esanlam": ["kahraman", "yiğit"],
-        "zitanlam": ["korkak", "zaaf"],
-        "ornek": [
-            "Alperenler, ülkenin savunulmasında en ön saflarda yer alırlardı.",
-            "O, gerçek bir alperendi; cesareti her zaman takdir edilirdi."
-        ],
-        "koken": "Eski Türkçede 'alperen' kelimesi, cesur, yiğit, kahraman anlamına gelir."
-    },
-    {
-        "kelime": "kut",
-        "anlam": "Şans, uğur, kutsallık, bir kişinin veya toplumun başarılı olacağına işaret eden manevi güç.",
-        "esanlam": ["uğur", "bereket"],
-        "zitanlam": ["talihsizlik", "kötü şans"],
-        "ornek": [
-            "Kutlu bir yolculuğa çıkmıştı ve tüm işlerinde başarıya ulaşacağına inanıyordu.",
-            "Kutlu, doğru ve erdemli bir insan her zaman toplumun lideri olmalıdır."
-        ],
-        "koken": "Eski Türkçede 'kut' kelimesi, şans, bereket ve kutsallık anlamına gelir."
-    },
-    {
-        "kelime": "tigin",
-        "anlam": "Türk hükümdarlarının çocuklarına verilen unvan; prens.",
-        "esanlam": ["prens", "soylu çocuk"],
-        "zitanlam": ["halk çocuğu", "bağımsız"],
-        "ornek": [
-            "Tigin, küçük yaşta olmasına rağmen büyük bir sorumluluk taşımaktaydı.",
-            "Hükümdar, oğluna tigin unvanını vererek ona devlet işlerinde görev vermiştir."
-        ],
-        "koken": "Eski Türkçede 'tigin' kelimesi, hükümdarın oğluna verilen unvandır."
-    },
-    {
-        "kelime": "kök",
-        "anlam": "Bir şeyin temel, asli öğesi veya kaynağı.",
-        "esanlam": ["temel", "kaynak"],
-        "zitanlam": ["dal", "yaprak"],
-        "ornek": [
-            "Dilimizin kökleri, eski Türkçeye dayanmaktadır.",
-            "Köklerinden beslenen bu ağaç, yıllarca büyümesini sürdürebilir."
-        ],
-        "koken": "Eski Türkçede 'kök' kelimesi, temel, başlangıç anlamında kullanılır."
-    },
-    {
-        "kelime": "yüce",
-        "anlam": "Büyük, yüksek, çok değerli; ruhsal ya da manevi anlamda yücelik.",
-        "esanlam": ["yüksek", "muhteşem"],
-        "zitanlam": ["alçak", "küçük"],
-        "ornek": [
-            "O, yüce gönüllü bir liderdi.",
-            "Yüce dağlar, insanı kendine hayran bırakır."
-        ],
-        "koken": "Eski Türkçede 'yüce' kelimesi, yüksek, büyük ve değerli anlamında kullanılır."
-    },
-    {
-        "kelime": "alhızır",
-        "anlam": "Türk mitolojisinde, her türlü dilek ve arzuyu yerine getiren, kutsal bir figür.",
-        "esanlam": ["yardımcı", "koruyucu"],
-        "zitanlam": ["zarar", "musibet"],
-        "ornek": [
-            "Alhızır, zor zamanlarda insanlara yardım eden bir figürdür.",
-            "Efsaneye göre, alhızır her zaman bir insanın yardımına koşar."
-        ],
-        "koken": "Eski Türkçede 'alhızır' kelimesi, yardımsever bir figür olarak betimlenmiştir."
-    },
-    {
-        "kelime": "selam",
-        "anlam": "Birine merhaba demek, selamlaşmak, barış ve iyi dilek.",
-        "esanlam": ["merhaba", "selamlaşma"],
-        "zitanlam": ["görmezden gelme", "soğukluk"],
-        "ornek": [
-            "Selam vermek, insanlar arasında dostça bir bağ kurar.",
-            "Herkese selam vererek odadan çıkmak istiyordu."
-        ],
-        "koken": "Eski Türkçede 'selam' kelimesi, barış ve dostluk anlamına gelir."
-    },
-    {
-        "kelime": "tunç",
-        "anlam": "Bakır ve kalayın alaşımıyla yapılan sert metal.",
-        "esanlam": ["metalik", "sert alaşım"],
-        "zitanlam": ["demir", "çelik"],
-        "ornek": [
-            "Tunç, eski Türklerde genellikle savaş malzemelerinin yapımında kullanılırdı.",
-            "Tunç kılıçlar, dönemin en güçlü silahlarıydı."
-        ],
-        "koken": "Eski Türkçede 'tunç' kelimesi, sert metal anlamına gelir."
-    },
-    {
-        "kelime": "kam",
-        "anlam": "Eski Türklerde şaman, dini lider; doğaüstü güçlere sahip olduğuna inanılan kişi.",
-        "esanlam": ["şaman", "dede"],
-        "zitanlam": ["laik", "dünya görüşü"],
-        "ornek": [
-            "Kam, halkın sorunlarına çözüm getirecek bir liderdi.",
-            "Kamlar, geleneksel Türk inançlarının korunmasında önemli bir rol oynamışlardır."
-        ],
-        "koken": "Eski Türkçede 'kam' kelimesi, dini lider veya şaman anlamına gelir."
-    },
-    {
-        "kelime": "karaoke",
-        "anlam": "Şarkı söyleyen kişinin, arkasındaki müzikle birlikte sözlerini takip ederek şarkı söylemesi.",
-        "esanlam": ["şarkı yarışması", "müzikal gösteri"],
-        "zitanlam": ["sessizlik", "duruşma"],
-        "ornek": [
-            "Arkadaşlar, geceyi karaoke yaparak geçireceğiz.",
-            "Karaoke salonunda her hafta en iyi şarkıcılar yarışıyor."
-        ],
-        "koken": "Japonca 'kara' (boş) ve 'oke' (orkestra) kelimelerinin birleşiminden türetilmiştir."
-    },
-    {
-        "kelime": "origami",
-        "anlam": "Japon kağıt katlama sanatı, çeşitli şekillerin kağıtla yapılması.",
-        "esanlam": ["kağıt sanatı", "katlama sanatı"],
-        "zitanlam": ["çizim", "boyama"],
-        "ornek": [
-            "Origami, sabır ve dikkat gerektiren bir sanattır.",
-            "Çocuklar origamiyle çeşitli hayvan figürleri yapmayı çok seviyor."
-        ],
-        "koken": "Japonca 'ori' (katlama) ve 'kami' (kağıt) kelimelerinin birleşimidir."
-    },
-    {
-        "kelime": "zen",
-        "anlam": "Japon Budizminin bir okulu, meditasyon yolu.",
-        "esanlam": ["meditasyon", "düşünme"],
-        "zitanlam": ["koşuşturma", "hareketlilik"],
-        "ornek": [
-            "Zen, zihni sakinleştirip, düşüncelerin netleşmesine yardımcı olur.",
-            "Zen pratiği, insanların içsel huzura ulaşmasını sağlar."
-        ],
-        "koken": "Japonca 'zen' kelimesi, 'meditasyon' anlamına gelir."
-    },
-    {
-        "kelime": "konsültasyon",
-        "anlam": "Danışma, görüşme; özellikle uzmanlar arasında yapılan fikir alışverişi.",
-        "esanlam": ["danışma", "görüşme"],
-        "zitanlam": ["tek başına karar verme", "görüşsüzlük"],
-        "ornek": [
-            "Doktorlar arasında konsültasyon yaparak en doğru tedavi yöntemini belirlediler.",
-            "Bir psikologla konsültasyon yapmak, sorunun çözülmesine yardımcı olabilir."
-        ],
-        "koken": "Latince 'consultatio' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "sistematizasyon",
-        "anlam": "Bir şeyin düzenli ve mantıklı bir şekilde sıralanması veya düzenlenmesi.",
-        "esanlam": ["düzenleme", "sıralama"],
-        "zitanlam": ["karmaşa", "dağınıklık"],
-        "ornek": [
-            "Bu projede sistematizasyon çok önemli bir yer tutuyor.",
-            "Verilerin sistematizasyonu, analiz yapmayı kolaylaştırır."
-        ],
-        "koken": "Latince 'systema' (sistem) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "entegrasyon",
-        "anlam": "Bütünleşme, birleştirme; farklı parçaların tek bir bütün içinde birleşmesi.",
-        "esanlam": ["birleşim", "bütünleşme"],
-        "zitanlam": ["ayrılma", "bölünme"],
-        "ornek": [
-            "Avrupa Birliği'ne entegrasyon süreci uzun yıllar aldı.",
-            "Eğitim sisteminin entegrasyonu, daha verimli hale gelmesini sağlar."
-        ],
-        "koken": "Latince 'integrare' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "kuark",
-        "anlam": "Atom altı parçacık, maddeyi oluşturan temel yapı taşı.",
-        "esanlam": ["atom altı", "parçacık"],
-        "zitanlam": ["büyük parçacık", "madde"],
-        "ornek": [
-            "Fizikçiler kuarklar üzerinde yeni deneyler yapıyorlar.",
-            "Kuarklar, atom altı dünyamızın en küçük yapı taşlarıdır."
-        ],
-        "koken": "İngilizce 'quark' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "dekont",
-        "anlam": "Ödeme işleminin kanıtı olan belgenin adı.",
-        "esanlam": ["makbuz", "belge"],
-        "zitanlam": ["borç", "yapılmamış ödeme"],
-        "ornek": [
-            "Bankadan dekont almayı unutma.",
-            "Ödeme dekontu, işlem sonrasında verilen bir belgedir."
-        ],
-        "koken": "Fransızca 'décompte' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "hermetik",
-        "anlam": "Sıkıca kapalı, hava geçirmez.",
-        "esanlam": ["kapalı", "sızdırmaz"],
-        "zitanlam": ["açık", "geçirgen"],
-        "ornek": [
-            "Bu kutu hermetik olarak kapatılmalı, içeriye hava girmemelidir.",
-            "Hermetik mühürleme, ürünlerin uzun süre bozulmadan saklanmasını sağlar."
-        ],
-        "koken": "Eski Yunanca 'hermetikos' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "spazm",
-        "anlam": "Kasların istem dışı, aniden kasılması.",
-        "esanlam": ["kasılma", "titreme"],
-        "zitanlam": ["gevşeme", "rahatlama"],
-        "ornek": [
-            "Sürekli oturmak, sırt kaslarında spazmlara yol açabilir.",
-            "Spazmlar, kasların kontrolsüz bir şekilde kasılmasından kaynaklanır."
-        ],
-        "koken": "Yunanca 'spasmus' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "atmosfer",
-        "anlam": "Bir gezegenin çevresindeki gaz tabakası.",
-        "esanlam": ["hava tabakası", "gaz katmanı"],
-        "zitanlam": ["boşluk", "vakum"],
-        "ornek": [
-            "Atmosferdeki oksijen oranı, yaşam için gereklidir.",
-            "Gezegenimizin atmosferi, güneşten gelen zararlı ışınlardan bizi korur."
-        ],
-        "koken": "Yunanca 'atmos' (buhar) kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "karma",
-        "anlam": "Hindistan ve Budizm'de, bir kişinin eylemlerinin, gelecek yaşamını etkileyeceğine inanılan inanç.",
-        "esanlam": ["eylem", "etki-tepki"],
-        "zitanlam": ["tesadüf", "şans"],
-        "ornek": [
-            "Karma inancına göre, iyi eylemler gelecekte iyi sonuçlar doğurur.",
-            "Ona olan tutumum, benim karma'mı etkileyecek."
-        ],
-        "koken": "Sanskritçe 'karma' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "indigo",
-        "anlam": "Bir tür mavi-mor renkteki doğal boya maddesi.",
-        "esanlam": ["renk", "boyalı"],
-        "zitanlam": ["beyaz", "soluk"],
-        "ornek": [
-            "İndigo, özellikle eski zamanlarda kıyafetlerde yaygın olarak kullanılırdı.",
-            "İndigo rengi, doğal boyalar arasında önemli bir yer tutar."
-        ],
-        "koken": "Yunanca 'indikon' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "düalizm",
-        "anlam": "İki zıt ya da karşıt öğenin bir arada var olması, birbiriyle etkileşmesi.",
-        "esanlam": ["ikilik", "karşıtlık"],
-        "zitanlam": ["tekçilik", "birlik"],
-        "ornek": [
-            "Felsefede, ruh ve beden arasında bir düalizm olduğu kabul edilir.",
-            "Düalizm, çeşitli felsefi ve dini inançlarda önemli bir tema olmuştur."
-        ],
-        "koken": "Latince 'duo' (iki) ve 'ismus' ekinden türetilmiştir."
-    },
-    {
-        "kelime": "sinestezi",
-        "anlam": "Bir duyuya ait hissiyatın, başka bir duyu aracılığıyla algılanması durumu.",
-        "esanlam": ["duyu karışıklığı", "birleşik algı"],
-        "zitanlam": ["normal algı", "tek duyu"],
-        "ornek": [
-            "Sinestezi, bazı sanatçılar için yaratıcı bir ilham kaynağı olmuştur.",
-            "Birçok sinestezik insan, renkleri duygularla ilişkilendirir."
-        ],
-        "koken": "Yunanca 'syn' (birlikte) ve 'aisthesis' (duyu) kelimelerinin birleşimidir."
+        "koken": "Latince 'alternatus' (alternatus) kelimesinden türetilmiştir."
     },
     {
         "kelime": "tahribat",
-        "anlam": "Yıkım, bozma, tahrip etme.",
-        "esanlam": ["yıkım", "hasar"],
-        "zitanlam": ["onarım", "tamir"],
+        "anlam": "Bir şeyin, genellikle bir yapının, önemli şekilde zarar görmesi, yok olması.",
+        "esanlam": ["zarar", "yıkım"],
+        "zitanlam": ["onarım", "düzeltme"],
         "ornek": [
-            "Savaşın ardından bölgede büyük tahribat meydana geldi.",
-            "Bu deprem çok fazla tahribata yol açtı."
+            "Depremin ardından bölgede büyük tahribat meydana geldi.",
+            "Tahribatın etkileri uzun süre hissedildi."
         ],
-        "koken": "Arapça 'tah'rib' kelimesinden türetilmiştir."
+        "koken": "Arapça 'تخريب' (tahrîb) kelimesinden türetilmiştir."
     },
     {
         "kelime": "fenomen",
-        "anlam": "Doğa olayları veya olağanüstü görülen bir durum, bir şeyin gözlemi.",
-        "esanlam": ["olay", "görülme"],
-        "zitanlam": ["normal", "yaygın"],
+        "anlam": "Gözlemlerle ortaya çıkan, algılanabilen ve üzerinde araştırma yapılabilen olay veya durum.",
+        "esanlam": ["olay", "görülür şey"],
+        "zitanlam": ["gizlilik", "karanlık"],
         "ornek": [
-            "Bu doğal fenomen, bilim insanlarını oldukça şaşırttı.",
-            "Kış mevsiminde görülen bu fenomen nadir bir olaydır."
+            "Bu fenomenin nedeni hala tam olarak bilinmiyor.",
+            "Doğa fenomenlerini incelemek büyüleyicidir."
         ],
-        "koken": "Arapça 'fenomen' kelimesi, 'fən' kökünden türetilmiştir."
+        "koken": "Yunanca 'phainomenon' (fainomenon) kelimesinden türetilmiştir."
     },
     {
         "kelime": "ilhak",
-        "anlam": "Bir bölgenin ya da ülkenin başka bir bölgeye katılması.",
-        "esanlam": ["katılım", "eklenme"],
-        "zitanlam": ["bağımsızlık", "ayrıcalık"],
+        "anlam": "Bir bölgenin, devletin sınırlarına katılması, birleştirilmesi.",
+        "esanlam": ["katılma", "eklenme"],
+        "zitanlam": ["ayrılma", "bağımsızlık"],
         "ornek": [
-            "O bölgenin ilhakı, uluslararası krizlere yol açtı.",
-            "İlhak edilen topraklar, eski sahiplerine geri verilmedi."
+            "Bu ilhak, uluslararası ilişkilerde büyük tartışmalara yol açtı.",
+            "Ilhak edilen bölge, birkaç yıl sonra tam olarak entegrasyon sağladı."
         ],
-        "koken": "Arapça 'ilḥāk' kelimesinden türetilmiştir."
+        "koken": "Arapça 'التحاق' (ilhâk) kelimesinden türetilmiştir."
     },
     {
         "kelime": "münasebet",
-        "anlam": "İlişki, bağ, alakadar olma durumu.",
+        "anlam": "İki şey arasındaki ilişki, bağlantı.",
         "esanlam": ["ilişki", "bağlantı"],
-        "zitanlam": ["bağımsızlık", "irade"],
+        "zitanlam": ["bağımsızlık", "farklılık"],
         "ornek": [
-            "Bu karar, aile içindeki münasebetleri olumsuz etkiledi.",
-            "İş yerindeki münasebetler bazen kişisel ilişkilere dönüşebilir."
+            "Bu konunun önceki meseleyle münasebeti çok açıktı.",
+            "Münasebetler, diplomatik bir dil gerektiriyor."
         ],
-        "koken": "Arapça 'munāsaba' kelimesinden türetilmiştir."
+        "koken": "Arapça 'مناسبة' (munâsebet) kelimesinden türetilmiştir."
     },
     {
         "kelime": "nasihat",
-        "anlam": "Öğüt, akıl verme, doğru yolu gösterme amacıyla yapılan konuşma.",
-        "esanlam": ["öğüt", "akıl verme"],
-        "zitanlam": ["yanlış yönlendirme", "sapkınlık"],
+        "anlam": "Birine öğüt verme, rehberlik yapma.",
+        "esanlam": ["öğüt", "rehberlik"],
+        "zitanlam": ["terbiye", "yargı"],
         "ornek": [
-            "Büyüklerinden aldığı nasihatleri asla unutmuyor.",
-            "Nasihat almak, insanın kendini geliştirmesine yardımcı olabilir."
+            "Büyüklerinden nasihat almak, hayatı daha kolaylaştırır.",
+            "Nasihatleri dikkate alarak doğru kararlar verdim."
         ],
-        "koken": "Arapça 'naṣīḥa' kelimesinden türetilmiştir."
+        "koken": "Arapça 'نصيحة' (nasîha) kelimesinden türetilmiştir."
     },
     {
         "kelime": "tefekkür",
-        "anlam": "Derin düşünme, akıl ve zihin yoluyla yapılan dikkatli değerlendirme.",
-        "esanlam": ["düşünme", "fikretme"],
-        "zitanlam": ["boş verme", "akılsızlık"],
+        "anlam": "Derin düşünme, bir konu üzerinde yoğunlaşarak düşünme.",
+        "esanlam": ["düşünme", "tezekkür"],
+        "zitanlam": ["işlemsizlik", "sıfırlama"],
         "ornek": [
-            "Tefekkür etmek, insanın iç dünyasını keşfetmesine yardımcı olur.",
-            "Hayatın anlamını bulmak için tefekkür etmek önemlidir."
+            "Tefekkür, insanı olgunlaştıran önemli bir süreçtir.",
+            "Bu konuda biraz tefekkür edersen, doğru cevabı bulabilirsin."
         ],
-        "koken": "Arapça 'tafakkur' kelimesinden türetilmiştir."
+        "koken": "Arapça 'تفكر' (tefekkür) kelimesinden türetilmiştir."
     },
     {
         "kelime": "müsbet",
-        "anlam": "Olumlu, pozitif, iyi yönlü.",
+        "anlam": "Olumlu, pozitif bir yaklaşım veya durum.",
         "esanlam": ["olumlu", "iyi"],
         "zitanlam": ["olumsuz", "negatif"],
         "ornek": [
-            "Müsbet bir yaklaşım, her durumda önemli bir etkendir.",
-            "Yeni reformların müsbete dönüşmesi, toplumda iyileşme sağladı."
+            "Bu müsbet gelişmeler, gelecekte daha iyi sonuçlar doğuracaktır.",
+            "Her konuda müsbet bir bakış açısı geliştirmek önemlidir."
         ],
-        "koken": "Arapça 'musbat' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "takdir",
-        "anlam": "Birini ya da bir şeyi değerli bulma, övgüde bulunma.",
-        "esanlam": ["değer verme", "övgü"],
-        "zitanlam": ["eleştiri", "kötüleme"],
-        "ornek": [
-            "Takdir edilen kişi, ödüllerle onurlandırıldı.",
-            "Yaptığı işler takdir edilmelidir."
-        ],
-        "koken": "Arapça 'taqdīr' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "mazhar",
-        "anlam": "Bir şeyin kaynağı, sahip olunan nitelik.",
-        "esanlam": ["özellik", "vasıf"],
-        "zitanlam": ["eksiklik", "yetersizlik"],
-        "ornek": [
-            "O, çevresindeki herkesin mazhar olduğu bir kişiydi.",
-            "Her başarı mazhar olunacak bir ödüldür."
-        ],
-        "koken": "Arapça 'maẓhar' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "hükümran",
-        "anlam": "Bir yerde egemen olma, tam bir kontrol gücüne sahip olma durumu.",
-        "esanlam": ["egemen", "hakim"],
-        "zitanlam": ["bağımlı", "zayıf"],
-        "ornek": [
-            "Ülkede hükümetin hükümranlığı her geçen yıl arttı.",
-            "Hükümran olmak, güçlü bir liderlik gerektirir."
-        ],
-        "koken": "Arapça 'ḥukm' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "feraset",
-        "anlam": "İleriye dönük doğru tahmin yapma, sezgi.",
-        "esanlam": ["sezgi", "öngörü"],
-        "zitanlam": ["cehalet", "belirsizlik"],
-        "ornek": [
-            "Onun feraseti, şirketi krizden çıkarmasına yardımcı oldu.",
-            "Feraset, insanın bilinçaltındaki doğru hisleri anlamasına yardımcı olur."
-        ],
-        "koken": "Arapça 'fares' kelimesinden türetilmiştir."
-    },
-    {
-        "kelime": "nihayet",
-        "anlam": "Sonunda, en son nokta, son aşama.",
-        "esanlam": ["sonunda", "bitiş"],
-        "zitanlam": ["başlangıç", "ilk"],
-        "ornek": [
-            "Nihayet eve vardım ve yorgunluktan bir süre uyudum.",
-            "Bu büyük projenin nihayet tamamlanması sevindiriciydi."
-        ],
-        "koken": "Arapça 'nihāyah' kelimesinden türetilmiştir."
+        "koken": "Arapça 'موجب' (müsbet) kelimesinden türetilmiştir."
     }
 ]
